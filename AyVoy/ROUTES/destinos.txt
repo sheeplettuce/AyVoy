@@ -1,0 +1,44 @@
+Ruta 1: Recorre desde el fraccionamiento Ojocaliente hasta el centro de la ciudad.
+Ruta 2: Va del fraccionamiento Morelos al centro.
+Ruta 3: Conecta el fraccionamiento Insurgentes con el centro.
+Ruta 4: Une el fraccionamiento Héroes con el centro.
+Ruta 5: Del fraccionamiento Pilar Blanco al centro.
+Ruta 6: Desde el fraccionamiento Villas de Nuestra Señora de la Asunción al centro.
+Ruta 7: Conecta el fraccionamiento Mirador de las Culturas con el centro.
+Ruta 8: Va del fraccionamiento Lomas del Ajedrez al centro.
+Ruta 9: Recorre desde el fraccionamiento Villa Montaña hasta el centro.
+Ruta 10: Une el fraccionamiento Villas del Puertecito con el centro.
+Ruta 11: Del fraccionamiento Municipio Libre al centro.
+Ruta 12: Conecta el fraccionamiento Valle de los Cactus con el centro.
+Ruta 14: Va del fraccionamiento Rodolfo Landeros al centro.
+Ruta 16: Recorre desde el fraccionamiento Villas de la Cantera hasta el centro.
+Ruta 18: Une el fraccionamiento Villa Teresa con el centro.
+Ruta 19: Conecta el fraccionamiento Colinas del Río con el fraccionamiento Morelos.
+Ruta 20N: Circuito en el Primer Anillo de Circunvalación, sentido norte.
+Ruta 20S: Circuito en el Primer Anillo de Circunvalación, sentido sur.
+Ruta 23: Va del fraccionamiento Villas de Nuestra Señora de la Asunción al centro.
+Ruta 24: Recorre desde el fraccionamiento Jesús Terán hasta el centro.
+Ruta 25: Une el fraccionamiento Villa de las Palmas con el centro.
+Ruta 27: Conecta el fraccionamiento Lomas del Mirador con el centro.
+Ruta 28: Va del fraccionamiento Los Pericos al centro.
+Ruta 29: Recorre desde el fraccionamiento Villas de Nuestra Señora de la Asunción Sector Guadalupe hasta el centro.
+Ruta 30: Une el fraccionamiento Villa Montaña con el centro.
+Ruta 33: Conecta el fraccionamiento Villa Taurina con el centro.
+Ruta 34: Va del fraccionamiento Vistas del Sol al centro.
+Ruta 35: Recorre desde el fraccionamiento Villa de las Norias hasta el centro.
+Ruta 36: Une el fraccionamiento Villa de las Norias con el centro.
+Ruta 37: Conecta el fraccionamiento Villa de las Norias con el centro.
+Ruta 38: Va del fraccionamiento Villa de las Norias al centro.
+Ruta 39: Recorre desde el fraccionamiento Villa de las Norias hasta el centro.
+Ruta 40: Circuito en el Segundo Anillo de Circunvalación.
+Ruta 41: Une el fraccionamiento Villa de las Norias con el centro.
+Ruta 42: Conecta el fraccionamiento Villa de las Norias con el centro.
+Ruta 43: Va desde Villas del Puertecito hasta Lomas de Nueva York, pasando por San Antonio, Centro, Paseo de la Cruz, Díaz de León, Clínica 1 del IMSS, Parque Rodolfo Landeros y Central de Abastos.
+Ruta 45: Recorre desde el fraccionamiento Villa de las Norias hasta el centro.
+Ruta 46: Une el fraccionamiento Villa de las Norias con el centro.
+Ruta 47: Conecta el fraccionamiento Villa de las Norias con el centro.
+Ruta 48: Va del fraccionamiento Villa de las Norias al centro.
+Ruta 50: Circuito en el Tercer Anillo de Circunvalación.
+Ruta 50B: Variante del circuito en el Tercer Anillo de Circunvalación.
+Ruta 51: Cruza la ciudad de norte a sur, desde Casablanca hasta el Puentecito de la Virgen.
+Ruta Especial UTR: Conecta la Universidad Tecnológica de Aguascalientes con diversos puntos de la ciudad.
